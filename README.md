@@ -1,5 +1,4 @@
 # Face-Recognizer :sunglasses:
-
 A Face Recogniser which works in real time!
 You get 3 options:
 
@@ -44,5 +43,25 @@ You get 3 options:
   
 
 
-________________________________________________________________________________________________________________________________________
-Suggestions are welcome!
+_______________________________________________________________________________________________________________________________________
+
+
+
+## How does it work :question:
+
+### 1) It takes in 20 images per face(person).
+  
+   i) Finds the face in the frame using a HAAR cascade.
+  ii) Trims the unnecessary parts of the face
+ iii) Does histogram equalization and resizes the images to 100 x 100
+ 
+ These images are saved in a folder with the person's name.
+ 
+ 
+ 
+ ### 2) For live recognitionn:
+ 
+   i) Creates a LBHP face recogniser and trains it on the existing dataset.
+   ii) Finds the face, does the same pre-processing as point 1.
+  iii) Finds the face with the closest likeness to the current face within a certain threshold.
+   iv) Displays the face along with the name of the person and a rectangle around their face.
