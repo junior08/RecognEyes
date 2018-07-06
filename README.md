@@ -49,7 +49,7 @@ ________________________________________________________________________________
 
 ## How does it work :question:
 
-### 1) It takes in 20 images per face(person).
+### 1) It takes in 20 images per face(person). :camera:
   
    i) Finds the face in the frame using a HAAR cascade. <br />
   ii) Trims the unnecessary parts of the face. <br />
@@ -59,7 +59,7 @@ ________________________________________________________________________________
  
  
  
- ### 2) For live recognitionn:
+ ### 2) For live recognition: :+1:
  
    i) Creates a LBHP face recogniser and trains it on the existing dataset. <br />
    ii) Finds the face, does the same pre-processing as point 1. <br />
