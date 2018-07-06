@@ -64,4 +64,7 @@ ________________________________________________________________________________
    i) Creates a LBHP face recogniser and trains it on the existing dataset. <br />
    ii) Finds the face, does the same pre-processing as point 1. <br />
   iii) Finds the face with the closest likeness to the current face within a certain threshold. <br />
-   iv) Displays the face along with the name of the person and a rectangle around their face.
+   iv) Displays the face along with the name of the person and a rectangle around their face.<br /><br /><br />
+   
+   
+### About LBHP face recognizer :grin:: https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
