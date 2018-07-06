@@ -12,7 +12,7 @@ You get 3 options:
   
   
   
- ![](https://github.com/junior08/Face-Recognizer/blob/master/add_face.gif) 
+ ![](https://github.com/junior08/Face-Recognizer/blob/master/add_face.gif) <br /><br />
 
 
 
@@ -51,9 +51,9 @@ ________________________________________________________________________________
 
 ### 1) It takes in 20 images per face(person).
   
-   i) Finds the face in the frame using a HAAR cascade.
-  ii) Trims the unnecessary parts of the face
- iii) Does histogram equalization and resizes the images to 100 x 100
+   i) Finds the face in the frame using a HAAR cascade. <br />
+  ii) Trims the unnecessary parts of the face. <br />
+ iii) Does histogram equalization and resizes the images to 100 x 100. <br /><br />
  
  These images are saved in a folder with the person's name.
  
@@ -61,7 +61,7 @@ ________________________________________________________________________________
  
  ### 2) For live recognitionn:
  
-   i) Creates a LBHP face recogniser and trains it on the existing dataset.
-   ii) Finds the face, does the same pre-processing as point 1.
-  iii) Finds the face with the closest likeness to the current face within a certain threshold.
+   i) Creates a LBHP face recogniser and trains it on the existing dataset. <br />
+   ii) Finds the face, does the same pre-processing as point 1. <br />
+  iii) Finds the face with the closest likeness to the current face within a certain threshold. <br />
    iv) Displays the face along with the name of the person and a rectangle around their face.
