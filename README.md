@@ -5,14 +5,14 @@ You get 3 options:
 
 ## 1) Add a new face to the dataset of known people :heavy_exclamation_mark:.
   
-    Enter the name of the person and press ENTER when ready.
+ Enter the name of the person and press ENTER when ready.
   
   
-    A demo of this is shown below :wink::
+ A demo of this is shown below :wink::
   
   
   
-  ![](https://github.com/junior08/Face-Recognizer/blob/master/add_face.gif) 
+ ![](https://github.com/junior08/Face-Recognizer/blob/master/add_face.gif) 
 
 
 
@@ -29,10 +29,10 @@ You get 3 options:
 ## 2)  This option is for live recognition. :smiley:
 
 
-       Our recognition system works!!
+   Our recognition system works!!
     
     
-    ![](https://github.com/junior08/Face-Recognizer/blob/master/live.gif)\\
+  ![](https://github.com/junior08/Face-Recognizer/blob/master/live.gif)\\
     
     
 
