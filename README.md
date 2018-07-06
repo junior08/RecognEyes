@@ -5,6 +5,7 @@ You get 3 options:
 
 ## 1) Add a new face to the dataset of known people :heavy_exclamation_mark:.
   
+ ### Important: Make a folder with the name 'people_folder' in the directory of this code and then proceed.
  Enter the name of the person and press ENTER when ready.
   
   
