@@ -32,7 +32,7 @@ You get 3 options:
    Our recognition system works!!
     
     
-  ![](https://github.com/junior08/Face-Recognizer/blob/master/live.gif)\\
+  ![](https://github.com/junior08/Face-Recognizer/blob/master/live.gif)<br /><br />
     
     
 
