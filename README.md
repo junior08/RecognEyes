@@ -1,6 +1,13 @@
 # Face-Recognizer :sunglasses:
 A Face Recogniser which works in real time!
-You get 3 options:
+
+## Instructions:
+1) Make a folder with the name 'people_folder' in the directory of this code and then proceed.
+2) Download the HAAR cascade and place it in the same directory.
+3) Run pip install opencv-contrib-python from cmd to install the additional features of OpenCV.<br /><br />
+
+
+### You get 3 options:
 
 ## 1) Add a new face to the dataset of known people :heavy_exclamation_mark:.
   
