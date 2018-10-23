@@ -3,7 +3,7 @@ A Face Recogniser which works in real time!
 
 ## Instructions:
 1) Make a folder with the name 'people_folder' in the directory of this code and then proceed.
-2) Download the HAAR cascade and place it in the same directory.
+2) Download the HAAR cascade and place it in the same directory. 
 3) Run pip install opencv-contrib-python from cmd to install the additional features of OpenCV.<br /><br />
 
 
